@@ -129,7 +129,7 @@ Sample configuration (same location syntax)
         }
     }
 
-** Notice **: If want partial purge (Prefix Purge) `proxy_cache_key` config is required!
+**Notice**: If want partial purge (Prefix Purge) `proxy_cache_key` config is required!
 
 Sample configuration (same location syntax - purge all cached files)
 ====================================================================
